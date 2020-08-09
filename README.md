@@ -11,9 +11,9 @@ We all love software and sailing and are interested in exploring them together.
 This is an open community with no membership requirements or dues.
 
 1. Join the [GitHub organization](http://probot-invite.herokuapp.com/join/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkZXZzLXdoby1zYWlsIiwiaXNzIjo1ODc2OTksInJvbGUiOiJtZW1iZXIiLCJ0ZWFtcyI6WyIzMDc0MzIxIl0sImlhdCI6MTU0NzU3Mjc0MH0.rwOZiHfb0TPHV7XAJ6_TQj6NPI8OEDDsxwY-LIYLIRI) and [Slack Workspace](https://join.slack.com/t/sailboatguide/shared_invite/zt-g0b16zau-7lfaZFrJ48Zz~38DXSyImw)
-2. [Introduce yourself](https://github.com/devs-who-sail/discussions/issues/1)
-3. [Participate in discussions](https://github.com/devs-who-sail/discussions/issues)
-3. [Start a new discussion](https://github.com/devs-who-sail/discussions/issues/new)
+2. [Introduce yourself](https://github.com/devs-who-sail/discussions/discussions/1)
+3. [Participate in discussions](https://github.com/devs-who-sail/discussions/discussions)
+3. [Start a new discussion](https://github.com/devs-who-sail/discussions/discussions/category_choices)
 
 ## Resources
 
